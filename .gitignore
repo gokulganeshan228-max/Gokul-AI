@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chat_history.json
+uploads/
+temp_*
+*.db
+*.sqlite
+*.sqlite3
